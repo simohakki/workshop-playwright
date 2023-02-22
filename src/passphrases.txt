@@ -1,0 +1,5 @@
+Chapter_1=<Playwright is correctly installed with the version 1.30.0 !>
+Chapter_2=<[object Promise]>
+Chapter_3=<Playwright is aligned with the modern browsers architecture and runs tests out-of-process>
+Chapter_4=<Instead, follow best practices above to create a locator that uniquely identifies the target element.>
+Key_Chapter_5=<1 5 2+5 3 1+11>
